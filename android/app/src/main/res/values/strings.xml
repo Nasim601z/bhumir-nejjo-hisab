@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ভূমির ন্যায্য হিসাব</string>
+    <string name="title_activity_main">ভূমির ন্যায্য হিসাব</string>
+    <string name="package_name">com.nasim.bhumir</string>
+    <string name="custom_url_scheme">com.nasim.bhumir</string>
+</resources>
